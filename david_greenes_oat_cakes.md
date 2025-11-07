@@ -1,50 +1,55 @@
 # David Greene's Oat Cakes
 
-## Full Recipe
+## 100% Recipe (Industrial Batch: -4 dozen)
 
+| Ingredient    |   English | Metric (g) |
+|---------------|----------:|-----------:|
+| Eggs          |   2 dozen |       1540 |
+| Milk          |     3 cup |        710 |
+| Sunflower Oil | 1 1/2 cup |        340 |
+|---------------|----------:|-----------:|
+| Hemp Hearts   |   3/4 cup |        105 |
+| Almond Meal   |   3/4 cup |         70 |
+| Chia Seeds    |   2/3 cup |        110 |
+| Baking Powder |     4 tsp |         17 |
+| Salt          |    1 Tbsp |         17 |
+| Walnuts       |     1 cup |        115 |
+| Quick Oats    | 3 3/4 cup |        360 |
+| Rolled Oats   | 3 3/4 cup |        360 |
+|---------------|----------:|-----------:|
 
-| Ingredient    | English Measure  | Metric Measure (g) |
-|---------------|------------------|--------------------|
-| Eggs          | 2 dozen          | 1540               |
-| Milk          | 3 cups           | 710                |
-| Sunflower Oil | 1½ cups          | 340                |
-| Hemp Hearts   | ¾ cup            | 105                |
-| Almond Meal   | ¾ cup            | 70                 |
-| Chia Seeds    | 10 Tbsp (≈⅔ cup) | 110                |
-| Baking Powder | 4 tsp            | 17                 |
-| Salt          | 1 Tbsp           | 17                 |
-| Walnuts       | 1 cup            | 115                |
-| Quick Oats    | 3¾ cups          | 360                |
-| Rolled Oats   | 3¾ cups          | 360                |
+## 50% Recipe (Generous Batch: ~2 dozen)
 
-## Half Recipe
+| Ingredient    |   English | Metric (g) |
+|---------------|----------:|-----------:|
+| Eggs          |   1 dozen |        770 |
+| Milk          | 1 1/2 cup |        355 |
+| Sunflower Oil |   3/4 cup |        170 |
+|---------------|----------:|-----------:|
+| Hemp Hearts   |    6 Tbsp |         52 |
+| Almond Meal   |    6 Tbsp |         35 |
+| Chia Seeds    |    5 Tbsp |         55 |
+| Baking Powder |     2 tsp |          8 |
+| Salt          | 1 1/2 tsp |          8 |
+| Walnuts       |   1/2 cup |         58 |
+| Quick Oats    | 1 3/4 cup |        180 |
+| Rolled Oats   | 1 3/4 cup |        180 |
+|---------------|----------:|-----------:|
 
-| Ingredient    | English Measure          | Metric Measure (g) |
-|---------------|--------------------------|--------------------|
-| Eggs          | 2 dozen × 0.5            | 770                |
-| Milk          | 3 cups × 0.5             | 355                |
-| Sunflower Oil | 1½ cups × 0.5            | 170                |
-| Hemp Hearts   | ¾ cup × 0.5              | 52                 |
-| Almond Meal   | ¾ cup × 0.5              | 35                 |
-| Chia Seeds    | 10 Tbsp (≈2/3 cup) × 0.5 | 55                 |
-| Baking Powder | 4 tsp × 0.5              | 8                  |
-| Salt          | 1 Tbsp × 0.5             | 8                  |
-| Walnuts       | 1 cup × 0.5              | 58                 |
-| Quick Oats    | 3¾ cups × 0.5            | 180                |
-| Rolled Oats   | 3¾ cups × 0.5            | 180                |
+## 25% Recipe (Managable Batch: ~1 dozen)
 
-## Quarter Recipe
-
-| Ingredient    | English Measure         | Metric Measure (g) |
-|---------------|-------------------------|--------------------|
-| Eggs          | 2 dozen × 0.25          | 385                |
-| Milk          | 3 cups × 0.25           | 178                |
-| Sunflower Oil | 1½ cups × 0.25          | 85                 |
-| Hemp Hearts   | ¾ cup × 0.25            | 26                 |
-| Almond Meal   | ¾ cup × 0.25            | 18                 |
-| Chia Seeds    | 10 Tbsp (≈⅔ cup) × 0.25 | 28                 |
-| Baking Powder | 4 tsp × 0.25            | 4                  |
-| Salt          | 1 Tbsp × 0.25           | 4                  |
-| Walnuts       | 1 cup × 0.25            | 29                 |
-| Quick Oats    | 3¾ cups × 0.25          | 90                 |
-| Rolled Oats   | 3¾ cups × 0.25          | 90                 |
+| Ingredient    |    English | Metric (g) |
+|---------------|-----------:|-----------:|
+| Eggs          |     6 eggs |        385 |
+| Milk          |    3/4 cup |        178 |
+| Sunflower Oil |     6 Tbsp |         85 |
+|---------------|-----------:|-----------:|
+| Hemp Hearts   |     3 Tbsp |         26 |
+| Almond Meal   |     3 Tbsp |         18 |
+| Chia Seeds    | 2 1/2 Tbsp |         28 |
+| Baking Powder |      1 tsp |          4 |
+| Salt          |    3/4 tsp |          4 |
+| Walnuts       |    1/4 cup |         29 |
+| Quick Oats    |      1 cup |         90 |
+| Rolled Oats   |      1 cup |         90 |
+|---------------|-----------:|-----------:|
