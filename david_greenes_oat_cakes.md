@@ -42,7 +42,7 @@
 |---------------|-----------:|-----------:|
 | Eggs          |     6 eggs |        385 |
 | Milk          |    3/4 cup |        178 |
-| Sunflower Oil |     6 Tbsp |         85 |
+| Sunflower Oil |    1/3 cup |         85 |
 |---------------|-----------:|-----------:|
 | Hemp Hearts   |     3 Tbsp |         26 |
 | Almond Meal   |     3 Tbsp |         18 |
